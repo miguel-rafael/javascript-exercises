@@ -1,2 +1,6 @@
 # javascript-exercises
-Dump of Basic Javascript Exercises
+Collection of Javascript Exercises
+
+TODO: Add Instructions per file.
+
+~m
